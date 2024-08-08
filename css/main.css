@@ -28,7 +28,7 @@ figure, blockquote, dl, dd {
 }
 @font-face {
   font-family: "Gilroy";
-  src: url("../fonts/Gilroy-Semibold.woff2") format("woff2");
+  src: url("../fonts/Gilroy-SemiBold.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
